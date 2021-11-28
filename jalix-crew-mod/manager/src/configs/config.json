@@ -1,0 +1,102 @@
+{
+  "Bot": {
+    "Token": "TOKEN",
+    "MongoURL": "MONGO",
+    "Durum": "Created by Jalix.",
+    "Status": "dnd",
+    "Owners": ["796858691000205342"],
+    "Prefix": ["!", "."]
+  },
+
+  "Server": {
+    "GuildID": "908075172609806366",
+    "GuildName": "1962",
+    "DavetLink": "https://discord.gg/8E8u7QFQjr"
+  },
+
+  "Channels": {
+    "VoiceChannelID": "904284304413196288",
+    "FotoChat": "904168911426166804",
+    "YasaklıTag": "904300675914149940",
+    "Log": "901504240051191808",
+    "PublicCategory": "901417498363195402",
+    "Chat": "904168683109253154",
+    "Register": "",
+    "Tag": "904300675914149940",
+    "TagAyrıcalıkları": "904300675914149940",
+    "StreamerDenetim": "904300675914149940",
+    "ChatMute": "904300675914149940",
+    "Ban": "904300675914149940",
+    "VoiceMute": "901417573130838046",
+    "Jail": "904300675914149940",
+    "Cezapuanı": "904300675914149940"
+  },
+  
+  "Tag": {
+    "TagRolü": "908075172689506386",
+    "Tag": "1962",
+    "Tags": ["✩","1962"]
+  },
+
+  "Hammer": {
+    "Ban": ["908075172718870549"],
+    "Other": ["908075172748197982","908075172718870548"],
+    "BotCommands": ["908075172710469669"],
+    "YetkiliAlım": ["908075172785979393"],
+    "Move": ["908075172710469670"],
+    "RolAlVerYetkilisi": ["908075172785979394","908075172785979392","904286108114898984"]
+  },
+
+  "Puan": {
+    "kayıtPuan": 8,
+    "tagPuan": 12,
+    "kayıtCoin": 8,
+    "tagCoin": 12
+  },
+  
+   "Staff": {
+    "StaffRoles": ["908075172710469669"]
+  },
+  
+  "Roles": {
+    "Erkek": ["908075172681121805","908075172681121804","908075172681121803"],
+    "Kız": ["908075172681121808","908075172681121807","908075172681121806"],
+    "BoosterRolü": "904276269124976660",
+    "Vip": "904310062439354369",
+    "YetkiliRolleri": ["908075172710469669"],
+    "EnAltYetkiliRolü": "908075172739817504",
+    "YasaklıTagRolü": "908075172710469663",
+    "KayıtsızRolü": ["908075172668530758"],
+    "YöneticiRolü": "908075172785979394",
+    "CezalıRolü": "908075172710469664",
+    "NewAccRole": "908075172710469662",
+    "Muted": "908075172710469665",
+    "Sponsor": "908075172689506385",
+    "Müzisyen": "",
+    "PermCommands":[
+     { "UsePeople": ["908075172785979394","908075172760797261"], "Usages": ["vip"], "Roles": ["908075172681121810"] },
+     { "UsePeople": ["908075172785979394","908075172760797261"], "Usages": ["couple"], "Roles": ["908075172651757597"] },
+     { "UsePeople": ["908075172785979394","908075172760797261"], "Usages": ["alone"], "Roles": ["908075172651757596"] },
+     { "UsePeople": ["908075172785979394","908075172760797261"], "Usages": ["sponsor"], "Roles": ["908075172689506385"] }
+    ]
+  },
+
+  "GifPp": {
+    "BanGif": "https://cdn.discordapp.com/attachments/787761299374211072/787857265452777502/giphy.gif"
+  },
+
+  "Webhook": {
+    "VoiceLogWebhook": {
+      "ID": "908394419080822945",
+      "Token": "xNLpc7nQ7xZQsxmVgWDAjlZTQXP-LN93wWJDCZaDiNPIb5RUHp6fzd87dyiezUiZhvmX"
+    },
+    "LogWebhook": {
+      "ID": "908394419080822945",
+      "Token": "xNLpc7nQ7xZQsxmVgWDAjlZTQXP-LN93wWJDCZaDiNPIb5RUHp6fzd87dyiezUiZhvmX"
+    },
+    "RollogWebhook": {
+      "ID": "908394419080822945",
+      "Token": "xNLpc7nQ7xZQsxmVgWDAjlZTQXP-LN93wWJDCZaDiNPIb5RUHp6fzd87dyiezUiZhvmX"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Bot": {
+    "Token": "token",
+    "MongoURL": "mongo",
+    "Durum": "Created by Jalix.",
+    "Status": "online",
+    "Owners": ["796858691000205342","401774961737465876"],
+    "Prefix": ["!", ".", "s!"]
+  },
+
+  "Server": {
+    "GuildID": "908075172609806366"
+  },
+
+  "Channels":{
+    "VoiceChannelID": "908075174375600128",
+    "roleDelete": "908075177634582561",
+    "backup": "908075177634582561",
+    "noChannel": "907318024128839710"
+   },
+  
+  "Roles":{
+    "Booster": "",
+    "Jail": "908075172710469664",
+    "safeRoles": []
+   }
+}
